@@ -1,0 +1,21 @@
+.uploade{
+    text-align: center;
+    margin-top: 10px;
+    font-weight: 500;
+    
+}
+.uploade .fileUp{
+    background-color: rgb(5, 197, 5);
+    border: 1px solid rgb(5, 197, 5);
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: bold;
+    color: white;
+}
+
+form{
+    background-color: whitesmoke;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+    box-sizing: content-box;
+}
